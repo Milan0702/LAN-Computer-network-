@@ -1,1 +1,1 @@
-# A Basic computer netwrorkin project on LAN using cisco packet tracer 
+# A Basic computer networking project on LAN using cisco packet tracer 
